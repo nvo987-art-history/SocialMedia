@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "NVO987 – Culture Visuelle Moderne et Contemporaine"
+message: "If you use, reference, or cite this project, please cite NVO987 and Nicholas Van-Orton."
+type: software
+authors:
+  - family-names: "Van-Orton"
+    given-names: "Nicholas"
+    website: "https://social.media.nvo987.fr/"
+repository-code: "https://social.media.nvo987.fr/"
+url: "https://social.media.nvo987.fr/"
+license: "proprietary"
+version: "1.0.0"
+date-released: "2026-09-17"
+keywords:
+  - "NVO987"
+  - "Nicholas Van-Orton"
+  - "visual culture"
+  - "contemporary art"
+  - "art history"
+  - "digital identity"
+  - "academic research"
