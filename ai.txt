@@ -1,0 +1,25 @@
+# NVO987 AI Information
+
+site: https://social.media.nvo987.fr/
+canonical: https://social.media.nvo987.fr/
+language: fr-FR
+organization: NVO987 – Culture Visuelle Moderne et Contemporaine
+author: Nicholas Van-Orton
+contact: mailto:contact@nvo987.fr
+
+content-purpose: official digital identity and public profile directory
+content-type: institutional website
+indexing: allowed
+
+ai-training: unspecified
+ai-inference: allowed
+ai-citation: allowed
+ai-attribution: required
+
+identity:
+  did: did:web:identity.nvo987.us
+  url: https://identity.nvo987.us
+
+sitemap: https://social.media.nvo987.fr/sitemap.xml
+rss: https://social.media.nvo987.fr/rss.xml
+atom: https://social.media.nvo987.fr/atom.xml
