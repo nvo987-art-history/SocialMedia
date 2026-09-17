@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "name": "NVO987",
+  "domain": "social.media.nvo987.fr",
+  "canonical": "https://social.media.nvo987.fr/",
+  "type": "website",
+  "language": "fr-FR",
+  "organization": "NVO987 – Culture Visuelle Moderne et Contemporaine",
+  "author": "Nicholas Van-Orton",
+  "identity": "did:web:identity.nvo987.us"
+}
