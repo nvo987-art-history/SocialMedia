@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+
+    <title>NVO987 – Culture Visuelle Moderne et Contemporaine</title>
+
+    <link>https://social.media.nvo987.fr/</link>
+
+    <description>
+      Présence numérique officielle de NVO987 et de Nicholas Van-Orton.
+    </description>
+
+    <language>fr-FR</language>
+
+    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 GMT</lastBuildDate>
+
+    <atom:link
+      href="https://social.media.nvo987.fr/rss.xml"
+      rel="self"
+      type="application/rss+xml"
+    />
+
+    <item>
+
+      <title>NVO987 – Présence en ligne</title>
+
+      <link>https://social.media.nvo987.fr/</link>
+
+      <guid isPermaLink="true">
+        https://social.media.nvo987.fr/
+      </guid>
+
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+
+      <description>
+        Collection officielle des réseaux sociaux, profils de recherche,
+        publications et présences numériques de NVO987 et de Nicholas Van-Orton.
+      </description>
+
+    </item>
+
+  </channel>
+
+</rss>
