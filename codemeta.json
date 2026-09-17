@@ -1,0 +1,36 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "NVO987 – Culture Visuelle Moderne et Contemporaine",
+  "description": "Official digital identity and public profile directory for NVO987 and Nicholas Van-Orton.",
+  "version": "1.0.0",
+  "dateCreated": "2026-09-17",
+  "dateModified": "2026-09-17",
+  "codeRepository": "https://social.media.nvo987.fr/",
+  "url": "https://social.media.nvo987.fr/",
+  "author": {
+    "@type": "Person",
+    "givenName": "Nicholas",
+    "familyName": "Van-Orton",
+    "url": "https://social.media.nvo987.fr/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "NVO987 – Culture Visuelle Moderne et Contemporaine",
+    "url": "https://nvo987.fr/"
+  },
+  "programmingLanguage": [
+    "HTML",
+    "CSS",
+    "JSON-LD"
+  ],
+  "license": "https://social.media.nvo987.fr/LICENSE",
+  "keywords": [
+    "NVO987",
+    "visual culture",
+    "contemporary art",
+    "art history",
+    "digital identity",
+    "academic research"
+  ]
+}
