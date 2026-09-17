@@ -1,0 +1,27 @@
+/* TEAM */
+
+NVO987 – Culture Visuelle Moderne et Contemporaine
+Role: Organization
+Website: https://nvo987.fr/
+Social Media Directory: https://social.media.nvo987.fr/
+
+Nicholas Van-Orton
+Role: President / Author
+Website: https://social.media.nvo987.fr/
+
+Contact: contact@nvo987.fr
+
+
+/* SITE */
+
+Name: NVO987 – Culture Visuelle Moderne et Contemporaine
+Domain: social.media.nvo987.fr
+Language: French
+Technology: HTML5 / CSS3 / JSON-LD
+Typography: Inter / Playfair Display
+Identity: did:web:identity.nvo987.us
+
+
+/* COPYRIGHT */
+
+Copyright © 2026 NVO987 – Culture Visuelle Moderne et Contemporaine.
